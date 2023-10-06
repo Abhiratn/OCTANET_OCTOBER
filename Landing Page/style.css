@@ -1,0 +1,239 @@
+.parent-div {
+  width: 1440px;
+  height: 900px;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.FRAME-2-2 {
+  transform: rotate(0deg);
+  position: relative;
+  width: 1440px;
+  height: 900px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 1);
+}
+.RECTANGLE-2-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  transform: rotate(0deg);
+  transform-origin: center !important;
+  background: rgba(0, 0, 0, 1);
+
+  width: 1440px;
+  height: 900px;
+  opacity: 1;
+}
+.FRAME-2-65 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 412px;
+  height: 80px;
+  left: 927px;
+  top: 714px;
+  opacity: 1;
+  box-shadow: 7px 5px 5px 0px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+  background: rgba(24, 24, 24, 1);
+  box-shadow: 7px 5px 5px 0px rgba(0, 0, 0, 0.5);
+}
+.FRAME-2-88 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 345px;
+  height: 42px;
+  left: 33px;
+  top: 19px;
+  opacity: 1;
+}
+.GROUP-2-78 {
+  position: absolute;
+  width: 92px;
+  height: 42px;
+  left: 0px;
+  top: 0px;
+  transform: rotate(0deg);
+  z-index: 1;
+  opacity: 1;
+}
+.GROUP-2-79 {
+  position: absolute;
+  width: 62px;
+  height: 42px;
+  left: 142px;
+  top: 0px;
+  transform: rotate(0deg);
+  z-index: 2;
+  opacity: 1;
+}
+.GROUP-2-82 {
+  position: absolute;
+  width: 91px;
+  height: 42px;
+  left: 254px;
+  top: 0px;
+  transform: rotate(0deg);
+  z-index: 3;
+  opacity: 1;
+}
+.FRAME-4-122 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 495px;
+  height: 32px;
+  left: 148px;
+  top: 733px;
+  opacity: 1;
+}
+.FRAME-4-119 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 300px;
+  height: 32px;
+  left: 195px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-4-105 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 140px;
+  height: 32px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+  background: transparent;
+}
+.FRAME-4-109 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 140px;
+  height: 32px;
+  left: 160px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+  background: transparent;
+}
+.FRAME-2-103 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1465px;
+  height: 464px;
+  left: 19px;
+  top: 193px;
+  opacity: 1;
+}
+.FRAME-2-59 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 324px;
+  height: 57px;
+  left: 250px;
+  top: 306px;
+  opacity: 1;
+  box-shadow: 0px 0px 25px 0px rgba(168, 255, 53, 1);
+  overflow: hidden;
+  background: rgba(168, 255, 53, 1);
+  box-shadow: 0px 0px 25px 0px rgba(168, 255, 53, 1);
+  border-radius: 40px;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+}
+.GROUP-2-67 {
+  position: absolute;
+  width: 862px;
+  height: 176px;
+  left: 0px;
+  top: 26px;
+  transform: rotate(0deg);
+  z-index: 3;
+  opacity: 1;
+}
+.FRAME-2-102 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 330px;
+  height: 32px;
+  left: 250px;
+  top: 393px;
+  opacity: 1;
+}
+.FRAME-2-101 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 180px;
+  height: 32px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-2-34 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 1274px;
+  height: 31px;
+  left: 70px;
+  top: 38px;
+  opacity: 1;
+}
+.FRAME-2-19 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 466px;
+  height: 22px;
+  left: 417px;
+  top: 2px;
+  opacity: 1;
+}
+.FRAME-2-33 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 92px;
+  height: 24px;
+  left: 1182px;
+  top: 0px;
+  opacity: 1;
+}
+.FRAME-2-27 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 0px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+  background: transparent;
+}
+.FRAME-2-29 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 34px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+  background: transparent;
+}
+.FRAME-2-31 {
+  transform: rotate(0deg);
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 68px;
+  top: 0px;
+  opacity: 1;
+  overflow: hidden;
+  background: transparent;
+}
+
